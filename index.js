@@ -1,10 +1,3 @@
-import VirtualSelector from "./src/VirtualSelector.vue";
+import loop from "./src/loop";
 
-const plugin = {
-  install(Vue) {
-    Vue.component("virtual-selector", VirtualSelector);
-    Vue.component("VirtualSelector", VirtualSelector);
-  },
-};
-
-export default plugin;
+export default loop;

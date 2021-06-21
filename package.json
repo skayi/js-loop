@@ -1,38 +1,21 @@
 {
-  "name": "vue-virtual-selector",
-  "version": "1.1.1",
-  "description": "Blazing fast scrolling for any amount of data (based on : Akryum/vue-virtual-scroller)",
+  "name": "js-loop",
+  "version": "1.0.1",
+  "description": "Flexible configuration of looping tool",
   "main": "index.js",
-  "scripts": {
-    "rollupbuild": "rollup --config",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skayi/vue-virtual-selector.git"
+    "url": "git+https://github.com/skayi/js-loop.git"
   },
   "keywords": [
-    "vue",
-    "vuejs",
-    "virtual",
-    "selector",
+    "javascript",
+    "loop",
     "plugin"
   ],
   "author": "kwange",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skayi/vue-virtual-selector/issues"
+    "url": "https://github.com/skayi/js-loop/issues"
   },
-  "homepage": "https://github.com/skayi/vue-virtual-selector#readme",
-  "dependencies": {
-    "vue": "^2.6.13",
-    "vue-virtual-scroller": "^1.0.10"
-  },
-  "devDependencies": {
-    "rollup": "^2.51.0",
-    "rollup-plugin-css-only": "^3.1.0",
-    "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-vue": "^5.1.9",
-    "vue-template-compiler": "^2.6.13"
-  }
+  "homepage": "https://github.com/skayi/js-loop#readme"
 }
